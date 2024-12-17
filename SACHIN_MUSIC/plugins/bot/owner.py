@@ -10,16 +10,16 @@ start_txt = """
 **
 ┌┬─────────────────⦿
 │├─────────────────╮
-│├ ᴛɢ ɴᴀᴍᴇ - sᴀᴄʜɪɴ sᴀɴᴀᴛᴀɴɪ
-│├ ʀᴇᴀʟ ɴᴀᴍᴇ - ᴘʀɪɴᴄᴇ ʀᴀᴊᴘᴜᴛ
+│├ ᴛɢ ɴᴀᴍᴇ - ʟᴇɢᴇɴᴅ ᴍɪᴄᴋᴇʏ
+│├ ʀᴇᴀʟ ɴᴀᴍᴇ - ᴛᴏsᴜ ᴍᴇᴍᴏɴ
 │├─────────────────╯
 ├┼─────────────────⦿
-├┤~ @V_VIP_OWNER
-├┤~ @SACHIN_OWNER
-├┤~ @Il_4ST_FIGHTER_lI
+├┤~ @THE_INCRICIBLE
+├┤~ @LEGEND_MICKEY
+├┤~ @ABOUT_GODFATHER
 ├┼─────────────────⦿
 │├─────────────────╮
-│├OWNER│ @V_VIP_OWNER
+│├OWNER│ @LEGEND_MICKEY
 │├─────────────────╯
 └┴─────────────────⦿
 **
@@ -32,24 +32,24 @@ start_txt = """
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton(" 𝗦𝗔𝗖𝗛𝗜𝗡 𝗦𝗔𝗡𝗔𝗧𝗔𝗡𝗜 ", url=f"https://t.me/V_VIP_OWNER")
+          InlineKeyboardButton(" 𝗟𝗘𝗚𝗘𝗡𝗗 𝗠𝗜𝗖𝗞𝗘𝗬", url=f"https://t.me/LEGEND_MICKEY")
         ],
         [
-          InlineKeyboardButton("ＨＥＬＰ", url="https://t.me/Il_4ST_FIGHTER_lI"),
-          InlineKeyboardButton("ＲＥＰＯ", url="https://t.me/Il_4ST_FIGHTER_lI"),
+          InlineKeyboardButton("ʜᴇʟᴘ", url="https://t.me/THE_INCRICIBLE"),
+          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://t.me/THE_INCRICIBLE"),
           ],
                [
-                InlineKeyboardButton("ＳＡＮＡＴＡＮＩ ＮＥＴＷＯＲＫ", url=f"https://t.me/SANATANI_TECH"),
+                InlineKeyboardButton("ɪɴᴄʀɪᴄɪʙʟᴇ ɴᴇᴛᴡᴏʀᴋ", url=f"https://t.me/THE_INCRICIBLE"),
 ],
 [
-InlineKeyboardButton("ＯＦＦＩＣＩＡＬ ＢＯＴ", url=f"https://t.me/HIMANSHI_MUSIC_BOT"),
+InlineKeyboardButton("ᴏғғɪᴄɪᴀʟ ʙᴏᴛ", url=f"https://t.me/ZOYUMUSICBOT"),
 
         ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://telegra.ph/file/94f5088fdc7a0450bfa0a.jpg",
+        photo="https://files.catbox.moe/0wtv2m.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
