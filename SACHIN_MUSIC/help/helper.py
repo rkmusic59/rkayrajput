@@ -33,7 +33,7 @@ class Helper(object):
 ❍ /ask ➠ ǫυєʀɪєs ᴛʜє ᴧɪ ϻσᴅєʟ ᴛσ ɢєᴛ ᴧ ʀєsᴘσηsє ᴛσ ʏσυʀ ǫυєsᴛɪση
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -47,7 +47,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ᴘʏʀσɢʀᴧϻ : ʀєᴛυʀη ᴛσᴘ 5 ʀєυsʟᴛs ```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
     HELP_03 = '''```
@@ -58,7 +58,7 @@ class Helper(object):
 
 ❍ /tts : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -68,7 +68,7 @@ class Helper(object):
 ❍ /info : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ υsєʀ.
 ❍ /github <υsєʀηᴧϻє> : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ ɢɪᴛʜυʙ υsєʀ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -81,7 +81,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /font Sachin Sanatani```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
     HELP_06 = '''```
@@ -89,7 +89,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -117,7 +117,7 @@ class Helper(object):
 ❍ /vctag ➠ ᴠσɪᴄє ᴄʜᴧᴛ ɪηᴠɪᴛє ᴛᴧɢ 
 ❍ /vcstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -128,7 +128,7 @@ class Helper(object):
 ❍ /image ➠ sєᴧʀᴄʜєs ғσʀ ᴧη ɪϻᴧɢє ʙᴧsєᴅ ση ᴧ ɢɪᴠєη ᴋєʏᴡσʀᴅ.
 ❍ /upscale ➠ ʀєᴘʟʏ ᴛσ ᴧη ɪϻᴧɢє ᴛσ υᴘsᴄᴧʟє ɪᴛ ᴧηᴅ ɪϻᴘʀσᴠє ɪᴛs ǫυᴧʟɪᴛʏ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -142,7 +142,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -152,7 +152,7 @@ class Helper(object):
 **❍ /packkang ➠ ᴄʀєᴧᴛєs ᴧ ᴘᴧᴄᴋ σғ sᴛɪᴄᴋєʀs ғʀσϻ ᴧ σᴛʜєʀ ᴘᴧᴄᴋ
 ❍ /stickerid ➠ ɢєᴛs ᴛʜє sᴛɪᴄᴋєʀ ɪᴅ σғ ᴧ sᴛɪᴄᴋєʀ
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -177,7 +177,7 @@ class Helper(object):
 ❍ /boobs [ᴄʜєᴄᴋ ʏσυʀ ʙσσʙɪєs sɪᴢє]
 ❍ /dick [ᴄʜєᴄᴋ ʏσυʀ ᴅɪᴄᴋ sɪᴢє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -189,7 +189,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє
 ❍ /q r : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє ᴡɪᴛʜ ʀєᴘʟʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -201,7 +201,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -230,7 +230,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
     HELP_15 = '''```
@@ -239,7 +239,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -256,7 +256,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -271,7 +271,7 @@ class Helper(object):
 ❍ /pinned ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ᴘɪηηєᴅ ϻєssᴧɢє ɪη ᴛʜє ɢʀσυᴘ
 ❍ /unpin ➠ υηᴘɪηs ᴛʜє ᴄυʀʀєηᴛʟʏ ᴘɪηηєᴅ ϻєssᴧɢє
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -281,7 +281,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -293,7 +293,7 @@ class Helper(object):
 ❍ /setphoto ➠ sєᴛs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 ❍ /removephoto ➠ ʀєϻσᴠєs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -304,7 +304,7 @@ class Helper(object):
 **❍ /zombies ➠ ʀєϻσᴠєs ᴧᴄᴄ ᴅєʟєᴛєᴅ ϻєϻʙєʀs ғʀσϻ ᴛʜє ɢʀσυᴘ
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -321,7 +321,7 @@ class Helper(object):
 ❍ /basket [ʙᴧsᴋєᴛʙᴧʟʟ ɢᴧϻє]
 ❍ /football [ғσσᴛʙᴧʟʟ ɢᴧϻє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -332,7 +332,7 @@ class Helper(object):
 ❍ /imposter on
 ❍ /imposter off
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
     HELP_23 = '''```
@@ -340,7 +340,7 @@ class Helper(object):
 
 **❍ /sg ➠ υsєʀ ηᴧϻє ᴧηᴅ υsєʀηᴧϻє ʜɪsᴛσʀʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
     HELP_24 = '''```
@@ -348,7 +348,7 @@ class Helper(object):
 
 **❍ /tr ➠ ᴄᴧη ᴛʀᴧηꜱʟᴧᴛє ϻυʟᴛɪᴘʟє ʟᴧηɢυᴧɢєs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -364,7 +364,7 @@ class Helper(object):
 
 ❍ /stack ➠ sєᴧʀᴄʜєs ғσʀ ᴘʀσɢʀᴧϻϻɪηɢ-ʀєʟᴧᴛєᴅ ɪηғσʀϻᴧᴛɪση ση sᴛᴧᴄᴋ σᴠєʀғʟσᴡ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
 
 
@@ -375,7 +375,7 @@ class Helper(object):
 ❍ /tgm [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 ❍ /tgt [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
     HELP_PROMOTION = '''
 **─────────────────────────
@@ -397,34 +397,34 @@ class Helper(object):
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+
 ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє 
 ─────────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [Sᴧᴄʜɪη Sᴧηᴧᴛᴧηɪ](https://t.me/V_VIP_OWNER)
-❍ ᴄσηᴛᴧᴄᴛ - [Sᴧᴄʜɪη Sᴧηᴧᴛᴧηɪ](https://t.me/V_VIP_OWNER)
+❍ ᴄσηᴛᴧᴄᴛ - [𝖫ҽɠҽɳԃ 𝖬ιƈƙҽყ](https://t.me/LEGEND_MICKEY)
+❍ ᴄσηᴛᴧᴄᴛ - [𝖫ҽɠҽɳԃ 𝖬ιƈƙҽყ](https://t.me/LEGEND_MICKEY)
 ─────────────────────────**
 '''
     HELP_ALLBOT = '''
 **─────────────────────────
-│ ᴡєʟᴄσϻє ᴛσ ˹[sᴧηᴧᴛᴧηɪ](https://t.me/SANATANI_TECH)˼ ʙσᴛ sᴛᴧᴛυs │
+│ ᴡєʟᴄσϻє ᴛσ ˹[тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible)˼ ʙσᴛ sᴛᴧᴛυs │
 ─────────────────────────
        ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ─────────────────────────
 
-╭⎋ [sᴧᴘηᴧ ϻυsɪᴄ](https://t.me/SAPNA_X_ROBOT) : ᴧʟɪᴠє 
+╭⎋ [sᴘσƚιϝყ ϻυsɪᴄ](https://t.me/SPOTIFY_X_MUSICROBOT) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [ᴧʟєxᴧ ϻυsɪᴄ](https://t.me/MUSIC_BOT_FREE_BOT) : ᴧʟɪᴠє 
+╭⎋ [ƙιɯι ϻυsɪᴄ](https://t.me/xdz_music_bot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [ηєxɪσ ϻυsɪᴄ](https://t.me/NEXIO_MUSIC_BOT) : ᴧʟɪᴠє 
+╭⎋ [ȥσყυ ϻυsɪᴄ](https://t.me/zoyumusicbot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 ─────────────────────────
-⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/All_SANATANI_BOT/324)
+⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/The_Incricible/817)
 ─────────────────────────
 ⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 20 Sep 2024 
 ─────────────────────────
-❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ ˹ [𝛅ᴧηᴧᴛᴧηɪ Tєᴄի](https://t.me/ALL_SANATANI_BOT) ˼
+❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ ˹ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) ˼
 ─────────────────────────**
 '''
     HELP_ABOUT = '''
@@ -444,10 +444,10 @@ class Helper(object):
 ● ᴧηɪϻє ʙσᴛ ғυηᴄᴛɪσηᴧʟɪᴛʏ
 ● ᴧɪ ɪηᴛєɢʀᴧᴛɪση
 ─────────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [sᴧηᴧᴛᴧηɪ ᴛєᴄʜ](https://t.me/SANATANI_TECH)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [sᴧηᴧᴛᴧηɪ sυᴘᴘσʀᴛ](https://t.me/SANATANI_SUPPORT)
-❖ ʀєᴧʟ σᴡηєʀ ➥ [sᴧᴄʜɪη sᴧηᴧᴛᴧηɪ](https://t.me/V_VIP_OWNER)
-❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/SANATANI_TECH)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/ZOYU_SUPPORT)
+❖ ʀєᴧʟ σᴡηєʀ ➥ [ʟᴇɢᴇɴᴅ-ᴍɪᴄᴋᴇʏ](https://t.me/LEGEND_MICKEY)
+❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/The_Incricible)
 ─────────────────────────
 ❖ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ
     ᴧʙσυᴛ ϻʏ ϻσᴅυʟєs ᴧηᴅ ᴄσϻϻᴧηᴅs...!
