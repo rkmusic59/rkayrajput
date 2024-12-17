@@ -6,7 +6,7 @@ from SACHIN_MUSIC import app
 
 #--------------------------
 
-MUST_JOIN = "ALL_SANATANI_BOT"
+MUST_JOIN = "THE_INCRICIBLE"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
@@ -30,7 +30,7 @@ async def must_join_channel(app: Client, msg: Message):
                                 InlineKeyboardButton("• ᴊᴏɪɴ •", url=link),
                             ],
                             [
-                                InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/+Ckzm2ypQyIIzZTll"),
+                                InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/The_Incricible"),
                             ]
                         ]
                     )
