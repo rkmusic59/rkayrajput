@@ -2,13 +2,13 @@ from pyrogram import filters
 from pyrogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
 from pyrogram.types import Message
 from strings import get_string, helpers
-from DAXXMUSIC import app
+from SACHIN_MUSIC import app
 from pyrogram.types import InputMediaVideo
-from DAXXMUSIC.misc import SUDOERS
-from DAXXMUSIC.utils.database import add_sudo, remove_sudo
-from DAXXMUSIC.utils.decorators.language import language
-from DAXXMUSIC.utils.extraction import extract_user
-from DAXXMUSIC.utils.inline import close_markup
+from SACHIN_MUSIC.misc import SUDOERS
+from SACHIN_MUSIC.utils.database import add_sudo, remove_sudo
+from SACHIN_MUSIC.utils.decorators.language import language
+from SACHIN_MUSIC.utils.extraction import extract_user
+from SACHIN_MUSIC.utils.inline import close_markup
 from config import BANNED_USERS, OWNER_ID
 
 
