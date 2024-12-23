@@ -1,9 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-T H E I N C R I C I B L E
+𝐈 𝐒 𝐓 𝐊 𝐇 𝐀 𝐑 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-𝗦 U 𝗖 𝗛 𝗜 ꭙ 𝗠 𝗨 𝗦 𝗜 𝗖 
+𝐓 𝐇 𝐔 𝐍 𝐃 𝐄 𝐑 ꭙ 𝗠 𝗨 𝗦 𝗜 𝗖 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
