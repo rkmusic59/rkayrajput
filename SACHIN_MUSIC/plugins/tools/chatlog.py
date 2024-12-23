@@ -11,10 +11,10 @@ from pyrogram.types import (
     Message,
 )
 from config import LOGGER_ID as LOG_GROUP_ID
-from SONALI import app
-from SONALI.core.userbot import Userbot
-from SONALI.utils.database import delete_served_chat
-from SONALI.utils.database import get_assistant
+from SACHIN_MUSIC import app
+from SACHIN_MUSIC.core.userbot import Userbot
+from SACHIN_MUSIC.utils.database import delete_served_chat
+from SACHIN_MUSIC.utils.database import get_assistant
 
 photo = [
     "https://telegra.ph/file/253891e197cf5188c68b3.jpg",
