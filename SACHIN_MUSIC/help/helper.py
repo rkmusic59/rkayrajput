@@ -89,7 +89,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
 '''
 
 
@@ -117,7 +117,7 @@ class Helper(object):
 ❍ /vctag ➠ ᴠσɪᴄє ᴄʜᴧᴛ ɪηᴠɪᴛє ᴛᴧɢ 
 ❍ /vcstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
 '''
 
 
@@ -128,7 +128,7 @@ class Helper(object):
 ❍ /image ➠ sєᴧʀᴄʜєs ғσʀ ᴧη ɪϻᴧɢє ʙᴧsєᴅ ση ᴧ ɢɪᴠєη ᴋєʏᴡσʀᴅ.
 ❍ /upscale ➠ ʀєᴘʟʏ ᴛσ ᴧη ɪϻᴧɢє ᴛσ υᴘsᴄᴧʟє ɪᴛ ᴧηᴅ ɪϻᴘʀσᴠє ɪᴛs ǫυᴧʟɪᴛʏ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
 '''
 
 
@@ -142,7 +142,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
 '''
 
 
@@ -152,7 +152,7 @@ class Helper(object):
 **❍ /packkang ➠ ᴄʀєᴧᴛєs ᴧ ᴘᴧᴄᴋ σғ sᴛɪᴄᴋєʀs ғʀσϻ ᴧ σᴛʜєʀ ᴘᴧᴄᴋ
 ❍ /stickerid ➠ ɢєᴛs ᴛʜє sᴛɪᴄᴋєʀ ɪᴅ σғ ᴧ sᴛɪᴄᴋєʀ
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
 '''
 
 
@@ -177,7 +177,7 @@ class Helper(object):
 ❍ /boobs [ᴄʜєᴄᴋ ʏσυʀ ʙσσʙɪєs sɪᴢє]
 ❍ /dick [ᴄʜєᴄᴋ ʏσυʀ ᴅɪᴄᴋ sɪᴢє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
 '''
 
 
@@ -189,7 +189,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє
 ❍ /q r : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє ᴡɪᴛʜ ʀєᴘʟʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
 '''
 
 
@@ -201,7 +201,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
 '''
 
 
@@ -230,7 +230,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
 '''
 
     HELP_15 = '''```
@@ -239,7 +239,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
 '''
 
 
@@ -256,7 +256,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
 '''
 
 
@@ -271,7 +271,7 @@ class Helper(object):
 ❍ /pinned ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ᴘɪηηєᴅ ϻєssᴧɢє ɪη ᴛʜє ɢʀσυᴘ
 ❍ /unpin ➠ υηᴘɪηs ᴛʜє ᴄυʀʀєηᴛʟʏ ᴘɪηηєᴅ ϻєssᴧɢє
 
-❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
 '''
 
 
@@ -281,7 +281,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
 '''
 
 
