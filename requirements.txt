@@ -55,3 +55,6 @@ img2pdf
 cloudscraper
 pycryptodome
 opencv-python
+wget --user-agent="Mozilla/5.0" <video-url>
+yt-dlp -v <video-url>
+pip install -U yt-dlp
