@@ -33,7 +33,7 @@ NEXIO = [
     "https://files.catbox.moe/ss6r60.jpg",
     "https://files.catbox.moe/yuob18.jpg",
     "https://files.catbox.moe/i9xrrp.jpg",
-    "https://files.catbox.moe/a9tx8f.jpg"
+    "https://files.catbox.moe/a9tx8f.jpg",
     "https://files.catbox.moe/wlt26x.jpg",
     "https://files.catbox.moe/c1lylh.jpg",
     "https://files.catbox.moe/82eymp.jpg",
