@@ -47,7 +47,7 @@ gtts
 git+https://github.com/AsmSafone/SafoneAPI
 lexica-api==1.5.1
 httpx==0.25.2
-gpytranslate
+#gpytranslate
 openai==0.28.0
 pickledb
 python-telegram-bot==20.7
@@ -55,5 +55,4 @@ img2pdf
 cloudscraper
 pycryptodome
 opencv-python
-#rustc==1.73.0
-cargo==1.73.0
+deep_translator
