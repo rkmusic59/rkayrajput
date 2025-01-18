@@ -1,7 +1,7 @@
 from pyrogram import filters
 from pyrogram.types import *
 from SACHIN_MUSIC import app
-from gpytranslate import Translator
+from deep_translator import Translator
 
 #.......
 
