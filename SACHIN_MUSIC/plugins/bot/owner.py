@@ -10,16 +10,16 @@ start_txt = """
 **
 ┌┬─────────────────⦿
 │├─────────────────╮
-│├ ᴛɢ ɴᴀᴍᴇ - ᴛʜᴜɴᴅᴇʀ ᴘᴀᴘᴀ
-│├ ʀᴇᴀʟ ɴᴀᴍᴇ - ɪsᴛᴋʜᴀʀ ᴀʟᴀᴍ
+│├ ᴛɢ ɴᴀᴍᴇ - ꪜ 𝛊 ɭ ɭ ᧘ 𝛊 𝛈
+│├ ʀᴇᴀʟ ɴᴀᴍᴇ - ᴀᴋꜱʜɪᴛ ᴛʜᴀᴋᴜʀ
 │├─────────────────╯
 ├┼─────────────────⦿
-├┤~ @THUNDERDEVS
-├┤~ @ll_THUNDER_lll
-├┤~ @ISTKHAR_143
+├┤~ @iamakki001
+├┤~ @iamvillain77
+├┤~ @oldskoolgc
 ├┼─────────────────⦿
 │├─────────────────╮
-│├OWNER│ @THUNDERDEVS
+│├OWNER│ @iamakki001
 │├─────────────────╯
 └┴─────────────────⦿
 **
@@ -32,24 +32,24 @@ start_txt = """
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton(" 𝗟𝗘𝗚𝗘𝗡𝗗 𝗜𝗦𝗧𝗞𝗛𝗔𝗥 ", url=f"https://t.me/ll_THUNDER_lll")
+          InlineKeyboardButton(" ꪜ 𝛊 ɭ ɭ ᧘ 𝛊 𝛈 ", url=f"https://t.me/iamakki001")
         ],
         [
-          InlineKeyboardButton("ʜᴇʟᴘ", url="https://t.me/THUNDERDEVS"),
-          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://t.me/THUNDERDEVS"),
+          InlineKeyboardButton("ʜᴇʟᴘ", url="https://t.me/iamakki001"),
+          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://t.me/iamvillain77"),
           ],
                [
-                InlineKeyboardButton("ᴛʜᴜɴᴅᴇʀ ɴᴇᴛᴡᴏʀᴋ", url=f"https://t.me/THUNDERDEVS"),
+                InlineKeyboardButton("˹ᴠɪʟʟᴀɪɴ ꭙ ꜱᴜᴘᴘᴏʀᴛ˼", url=f"https://t.me/iamvillain77"),
 ],
 [
-InlineKeyboardButton("ᴏғғɪᴄɪᴀʟ ʙᴏᴛ", url=f"https://t.me/purvi_music_bot"),
+InlineKeyboardButton("ᴏғғɪᴄɪᴀʟ ʙᴏᴛ", url=f"https://t.me/radha_music_bot"),
 
         ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://files.catbox.moe/09w9tj.jpg",
+        photo="https://files.catbox.moe/pcncfx.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
