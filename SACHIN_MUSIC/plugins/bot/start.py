@@ -28,11 +28,7 @@ from strings import get_string
 NEXIO = [
     "https://files.catbox.moe/jrupn9.jpg",
     "https://files.catbox.moe/5z141p.jpg",
-    "https://files.catbox.moe/fnl0h7.jpg",
     "https://files.catbox.moe/1lz1go.jpg",
-    "https://files.catbox.moe/avackl.jpg",
-    "https://files.catbox.moe/1yrzwz.jpg",
-    "https://files.catbox.moe/6y22qw.jpg",
     "https://files.catbox.moe/gnnsf2.jpg",
     "https://files.catbox.moe/ss6r60.jpg",
     "https://files.catbox.moe/yuob18.jpg",
