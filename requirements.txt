@@ -55,5 +55,5 @@ img2pdf
 cloudscraper
 pycryptodome
 opencv-python
-rustc 
-cargo
+rustc==1.77.1
+cargo==1.73.0
