@@ -1,39 +1,11 @@
 import time, re
-from SACHIN_MUSIC import BOT_USERNAME
+from config import BOT_USERNAME
 from pyrogram.enums import MessageEntityType
 from pyrogram import filters
 from pyrogram.types import Message
 from SACHIN_MUSIC import app
 from SACHIN_MUSIC.mongo.readable_time import get_readable_time
 from SACHIN_MUSIC.mongo.afkdb import add_afk, is_afk, remove_afk
-import random 
-from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
-
-NEXIO = [
-        [
-            InlineKeyboardButton(text="• ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ •", url=f"https://t.me/radha_music_bot?startgroup=true"),
-        ],
-        ]
-
-SACHIN = [
-    "https://graph.org/file/e509753cf069de86e52f8.jpg",
-    "https://graph.org/file/babb71b593f36549218ce.jpg",
-    "https://graph.org/file/4a254d425fb4bf09b7470.jpg",
-    "https://graph.org/file/51f37e3c2d4aaff5cf80e.jpg",
-    "https://graph.org/file/df01978f91c14b16292f1.jpg",
-    "https://graph.org/file/a6e3e9d54c8b2e01787b6.jpg",
-    "https://graph.org/file/49bcbc23be713fbe06bac.jpg",
-    "https://graph.org/file/809651f9be99ee2bf76ab.jpg",
-    "https://graph.org/file/134c9f52f4ba0f7691cd1.jpg",
-    "https://graph.org/file/4b5c2174d7f38b4b4abd7.jpg",
-    "https://graph.org/file/80feff5bb4a03cf331945.jpg",
-    "https://graph.org/file/0379defeb51910065beac.jpg",
-    "https://graph.org/file/323b07bccd5e5e1f81f61.jpg",
-    "https://graph.org/file/cbe5c31b9ea5220b17969.jpg",
-    "https://graph.org/file/1a4e7071b3e64c620e003.jpg",
-    "https://graph.org/file/d37dd94135f355f9b6866.jpg",
-    ]
-
 
 
 
