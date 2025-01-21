@@ -118,20 +118,28 @@ chat_id=message.chat.id,
                 )
     else:
         out = private_panel(_)
-        served_chats = len(await get_served_chats())
-        served_users = len(await get_served_users())
-        UP, CPU, RAM, DISK = await bot_sys_stats()
-        await message.reply_sticker(
-        random.choice(HIMANSHI),)
-        await message.reply_photo(
-            random.choice(NEXIO),
-            caption=_["start_2"].format(message.from_user.mention, app.mention, UP, DISK, CPU, RAM,served_users,served_chats),
+        baby = await message.reply_text(f"**▒▒▒▒▒▒▒▒▒▒ 0%**")
+        await baby.edit_text(f"**█▒▒▒▒▒▒▒▒▒ 10%**")
+        await baby.edit_text(f"**██▒▒▒▒▒▒▒▒ 20%**")
+        await baby.edit_text(f"**███▒▒▒▒▒▒▒ 30%**")
+        await baby.edit_text(f"**████▒▒▒▒▒▒ 40%**")
+        await baby.edit_text(f"**█████▒▒▒▒▒ 50%**")
+        await baby.edit_text(f"**██████▒▒▒▒ 60%**")
+        await baby.edit_text(f"**███████▒▒▒ 70%**")
+        await baby.edit_text(f"**████████▒▒ 80%**")
+        await baby.edit_text(f"**█████████▒ 90%**")
+        await baby.edit_text(f"**██████████ 100%**")
+        await baby.edit_text(f"**❖ ɴᴏᴡ sᴛᴀʀᴛᴇᴅ..**")
+        await baby.delete()
+
+        await message.reply_photo(photo=config.START_IMG_URL,
+            caption=_["start_2"].format(message.from_user.mention, app.mention),
             reply_markup=InlineKeyboardMarkup(out),
         )
         if await is_on_off(2):
             return await app.send_message(
                 chat_id=config.LOGGER_ID,
-                text=f"✦ {message.from_user.mention} ᴊᴜsᴛ sᴛᴀʀᴛᴇᴅ ᴛʜᴇ ʙᴏᴛ.\n\n✦ <b>ᴜsᴇʀ ɪᴅ ➠</b> <code>{message.from_user.id}</code>\n✦ <b>ᴜsᴇʀɴᴀᴍᴇ ➠</b> @{message.from_user.username}",
+                text=f"{message.from_user.mention} started the bot.\n\n<b>User ID:</b> <code>{message.from_user.id}</code>\n<b>Username:</b> @{message.from_user.username}",
             )
 
 
