@@ -6,7 +6,7 @@ from SACHIN_MUSIC import app
 
 #--------------------------
 
-MUST_JOIN = "THUNDERDEVS"
+MUST_JOIN = "iamvillain77"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
