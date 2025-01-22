@@ -12,7 +12,7 @@ from SACHIN_MUSIC.utils.database import get_client, is_active_chat, is_autoend
 async def auto_leave():
     if config.AUTO_LEAVING_ASSISTANT:
         while not await asyncio.sleep(900):
-            from YTMUSIC.core.userbot import assistants
+            from SACHIN_MUSIC.core.userbot import assistants
 
             for num in assistants:
                 client = await get_client(num)
@@ -59,7 +59,7 @@ async def auto_end():
                     continue
                 autoend[chat_id] = {}
                 try:
-                    await YT.stop_stream(chat_id)
+                    await SACHIN.stop_stream(chat_id)
                 except:
                     continue
                 try:
