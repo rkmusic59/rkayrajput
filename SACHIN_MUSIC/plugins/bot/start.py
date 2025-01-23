@@ -24,19 +24,40 @@ from SACHIN_MUSIC.utils.formatters import get_readable_time
 from SACHIN_MUSIC.utils.inline import help_pannel, private_panel, start_panel
 from config import BANNED_USERS
 from strings import get_string
+
 NEXIO = [
     "https://files.catbox.moe/jrupn9.jpg",
     "https://files.catbox.moe/5z141p.jpg",
+    "https://files.catbox.moe/fnl0h7.jpg",
     "https://files.catbox.moe/1lz1go.jpg",
+    "https://files.catbox.moe/avackl.jpg",
+    "https://files.catbox.moe/1yrzwz.jpg",
+    "https://files.catbox.moe/6y22qw.jpg",
     "https://files.catbox.moe/gnnsf2.jpg",
     "https://files.catbox.moe/ss6r60.jpg",
     "https://files.catbox.moe/yuob18.jpg",
     "https://files.catbox.moe/i9xrrp.jpg",
-    "https://files.catbox.moe/a9tx8f.jpg",
+    "https://files.catbox.moe/a9tx8f.jpg"
     "https://files.catbox.moe/wlt26x.jpg",
     "https://files.catbox.moe/c1lylh.jpg",
     "https://files.catbox.moe/82eymp.jpg",
 ]
+
+HIMANSHI = [
+    "CAACAgUAAxkBAAEBYw5m7G9P80t1_j2B3Yd92giEZl5pUAACDQsAAu5MeVcOK7bEmdSlUB4E",
+    "CAACAgUAAxkBAAEBYwxm7G9LVcg14qUcZZA3UW_DD8b5EwACpwsAAo1FeFfhiv4M5X_-sR4E",
+    "CAACAgUAAxkBAAEBYwdm7G9B0AQOHXTL2YqQPS_1v9aoKwACGw0AAu3GeVeciSOmGXW1Mx4E",
+    "CAACAgUAAxkBAAEBYw9m7G9UNbKd5uykZTX8lZ4Cr8LAzAACrQsAAovseFe_Dx9-6uc6Ux4E",
+    "CAACAgUAAxkBAAEBYwpm7G9GSePQOKa6J19IJmN4aQdd6wAC-QoAAmpLeFeIwvGei64Sph4E",
+    "CAACAgUAAxkBAAEBYwlm7G9F_WH00zaCrHCrOE0hPNVwzgACGAwAAgLieFfTOC4m1R4KvR4E",
+    "CAACAgUAAxkBAAEBYyBm7G-lKV7aHgEF3nJFkAfn56C6cwACgAkAArWleFcq3_E-UPFIzh4E",
+    "CAACAgUAAxkBAAEBYw1m7G9NGhPaRs7LQ1qNjukWtqleMgAC9QkAAqeOeFeHI7lMCMruQR4E",
+    "CAACAgUAAxkBAAEBYwhm7G9C5a3pRXGlnxmd-bPpk6wPTgACKwoAAqDYeVd8I_IUW4LCkx4E",
+    "CAACAgUAAxkBAAEBYyFm7G-rzbXl2VpA37MJevvoJ3712QACbQoAAktbeFfdKoQ_a4J2PR4E",
+    "CAACAgUAAxkBAAEBYyJm7G-9KCjUg2MsRKZVTpR_aqn9lwACYA4AAqTycVdmzhfCS8nEPx4E",
+    "CAACAgUAAxkBAAEBYyNm7G_FwL1o8EbUs4wtYlMwIxAgCAACDQwAAncPeVe97cDgXeKF4B4E",
+]
+
 
 @app.on_message(filters.command(["start"]) & filters.private & ~BANNED_USERS)
 @LanguageStart
@@ -44,47 +65,29 @@ async def start_pm(client, message: Message, _):
     await add_served_user(message.from_user.id)
     if len(message.text.split()) > 1:
         name = message.text.split(None, 1)[1]
-
-        if name[0:3] == "del":
-            await del_plist_msg(client=client, message=message, _=_)
-
-        elif name[0:4] == "help":
+        if name[0:4] == "help":
             keyboard = help_pannel(_)
-            return await message.reply_photo(photo=config.START_IMG_URL,
+            await message.reply_sticker(
+            random.choice(HIMANSHI),)
+            return await message.reply_photo(
+                random.choice(NEXIO),
                 caption=_["help_1"].format(config.SUPPORT_CHAT),
                 reply_markup=keyboard,
             )
-
-        elif name[:8] == "connect_":
-            chat_id = name[8:]
-            try:
-                title = (await app.get_chat(chat_id)).title
-            except ChannelInvalid:
-                return await message.reply_text(f"Looks like I am not an admin of the chat ID {chat_id}")
-            
-            admin_ids = [member.user.id async for member in app.get_chat_members(chat_id, filter=ChatMembersFilter.ADMINISTRATORS)]
-            if message.from_user.id not in admin_ids:
-                return await message.reply_text(f"Sorry, but it seems you are not an admin of {title}.")
-            a = await connect_to_chat(message.from_user.id, chat_id)
-            if a:
-                await message.reply_text(f"You are now connected to {title}.")
-            else:
-                await message.reply_text(a)
-
-        elif name[0:3] == "sud":
+        if name[0:3] == "sud":
             await sudoers_list(client=client, message=message, _=_)
             if await is_on_off(2):
                 return await app.send_message(
                     chat_id=config.LOGGER_ID,
-                    text=f"{message.from_user.mention} started the bot to check <b>Sudo List</b>.\n\n<b>User ID:</b> <code>{message.from_user.id}</code>\n<b>Username:</b> @{message.from_user.username}",
+                    text=f"✦ {message.from_user.mention} ᴊᴜsᴛ sᴛᴀʀᴛᴇᴅ ᴛʜᴇ ʙᴏᴛ ᴛᴏ ᴄʜᴇᴄᴋ <b>sᴜᴅᴏʟɪsᴛ</b>.\n\n<b>✦ ᴜsᴇʀ ɪᴅ ➠</b> <code>{message.from_user.id}</code>\n<b>✦ ᴜsᴇʀɴᴀᴍᴇ ➠</b> @{message.from_user.username}",
                 )
-
-        elif name[0:3] == "inf":
+            return
+        if name[0:3] == "inf":
             m = await message.reply_text("🔎")
             query = (str(name)).replace("info_", "", 1)
             query = f"https://www.youtube.com/watch?v={query}"
-            results = await VideosSearch(query, limit=1).next()
-            for result in results["result"]:
+            results = VideosSearch(query, limit=1)
+            for result in (await results.next())["result"]:
                 title = result["title"]
                 duration = result["duration"]
                 views = result["viewCount"]["short"]
@@ -93,7 +96,6 @@ async def start_pm(client, message: Message, _):
                 channel = result["channel"]["name"]
                 link = result["link"]
                 published = result["publishedTime"]
-
             searched_text = _["start_6"].format(
                 title, duration, views, published, channellink, channel, app.mention
             )
@@ -107,7 +109,8 @@ async def start_pm(client, message: Message, _):
             )
             await m.delete()
             await app.send_photo(
-                chat_id=message.chat.id,
+
+chat_id=message.chat.id,
                 photo=thumbnail,
                 caption=searched_text,
                 reply_markup=key,
@@ -115,32 +118,24 @@ async def start_pm(client, message: Message, _):
             if await is_on_off(2):
                 return await app.send_message(
                     chat_id=config.LOGGER_ID,
-                    text=f"{message.from_user.mention} started the bot to check <b>Track Information</b>.\n\n<b>User ID:</b> <code>{message.from_user.id}</code>\n<b>Username:</b> @{message.from_user.username}",
+                    text=f"✦ {message.from_user.mention} ᴊᴜsᴛ sᴛᴀʀᴛᴇᴅ ᴛʜᴇ ʙᴏᴛ ᴛᴏ ᴄʜᴇᴄᴋ <b>ᴛʀᴀᴄᴋ ɪɴғᴏʀᴍᴀᴛɪᴏɴ</b>.\n\n✦ <b>ᴜsᴇʀ ɪᴅ ➠</b> <code>{message.from_user.id}</code>\n✦ <b>ᴜsᴇʀɴᴀᴍᴇ ➠</b> @{message.from_user.username}",
                 )
     else:
         out = private_panel(_)
-        baby = await message.reply_text(f"**▒▒▒▒▒▒▒▒▒▒ 0%**")
-        await baby.edit_text(f"**█▒▒▒▒▒▒▒▒▒ 10%**")
-        await baby.edit_text(f"**██▒▒▒▒▒▒▒▒ 20%**")
-        await baby.edit_text(f"**███▒▒▒▒▒▒▒ 30%**")
-        await baby.edit_text(f"**████▒▒▒▒▒▒ 40%**")
-        await baby.edit_text(f"**█████▒▒▒▒▒ 50%**")
-        await baby.edit_text(f"**██████▒▒▒▒ 60%**")
-        await baby.edit_text(f"**███████▒▒▒ 70%**")
-        await baby.edit_text(f"**████████▒▒ 80%**")
-        await baby.edit_text(f"**█████████▒ 90%**")
-        await baby.edit_text(f"**██████████ 100%**")
-        await baby.edit_text(f"**❖ ɴᴏᴡ sᴛᴀʀᴛᴇᴅ..**")
-        await baby.delete()
-
-        await message.reply_photo(photo=config.START_IMG_URL,
-            caption=_["start_2"].format(message.from_user.mention, app.mention),
+        served_chats = len(await get_served_chats())
+        served_users = len(await get_served_users())
+        UP, CPU, RAM, DISK = await bot_sys_stats()
+        await message.reply_sticker(
+        random.choice(HIMANSHI),)
+        await message.reply_photo(
+            random.choice(NEXIO),
+            caption=_["start_2"].format(message.from_user.mention, app.mention, UP, DISK, CPU, RAM,served_users,served_chats),
             reply_markup=InlineKeyboardMarkup(out),
         )
         if await is_on_off(2):
             return await app.send_message(
                 chat_id=config.LOGGER_ID,
-                text=f"{message.from_user.mention} started the bot.\n\n<b>User ID:</b> <code>{message.from_user.id}</code>\n<b>Username:</b> @{message.from_user.username}",
+                text=f"✦ {message.from_user.mention} ᴊᴜsᴛ sᴛᴀʀᴛᴇᴅ ᴛʜᴇ ʙᴏᴛ.\n\n✦ <b>ᴜsᴇʀ ɪᴅ ➠</b> <code>{message.from_user.id}</code>\n✦ <b>ᴜsᴇʀɴᴀᴍᴇ ➠</b> @{message.from_user.username}",
             )
 
 
@@ -149,8 +144,10 @@ async def start_pm(client, message: Message, _):
 async def start_gp(client, message: Message, _):
     out = start_panel(_)
     uptime = int(time.time() - _boot_)
+    await message.reply_sticker(
+    random.choice(HIMANSHI),)
     await message.reply_photo(
-        photo=config.START_IMG_URL,
+        random.choice(NEXIO),
         caption=_["start_1"].format(app.mention, get_readable_time(uptime)),
         reply_markup=InlineKeyboardMarkup(out),
     )
@@ -184,10 +181,12 @@ async def welcome(client, message: Message):
                     return await app.leave_chat(message.chat.id)
 
                 out = start_panel(_)
+                await message.reply_sticker(
+                random.choice(HIMANSHI),)
                 await message.reply_photo(
-                    config.START_IMG_URL,
+                    random.choice(NEXIO),
                     caption=_["start_3"].format(
-                        message.from_user.first_name,
+                        message.from_user.mention,
                         app.mention,
                         message.chat.title,
                         app.mention,
@@ -198,5 +197,3 @@ async def welcome(client, message: Message):
                 await message.stop_propagation()
         except Exception as ex:
             print(ex)
-    
-        
