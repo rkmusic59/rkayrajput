@@ -22,8 +22,8 @@ from pyrogram.enums import ParseMode
 
 
 photo = [
-    "https://telegra.ph/file/253891e197cf5188c68b3.jpg",
-    "https://telegra.ph/file/c32bcb41f9c3212bcf5bb.jpg",
+    "https://files.catbox.moe/graclr.jpg",
+    "https://files.catbox.moe/graclr.jpg",
     
 ]  
 
