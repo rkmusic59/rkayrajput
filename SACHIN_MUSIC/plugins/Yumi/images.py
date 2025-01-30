@@ -1,12 +1,14 @@
-import requests
-from requests import get 
+import os
+import shutil
+from re import findall
+from bing_image_downloader import downloader
+from pyrogram import Client, filters
+from pyrogram.types import InputMediaPhoto, Message
 from SACHIN_MUSIC import app
-from pyrogram import filters
-from pyrogram.types import InputMediaPhoto
 
 @app.on_message(filters.command(["img", "image"], prefixes=["/", "!"]))
-async def pinterest(_, message):
-     chat_id = message.chat.id
+async def google_img_search(client: Client, message: Message):
+    chat_id = message.chat.id
 
     try:
         query = message.text.split(None, 1)[1]
