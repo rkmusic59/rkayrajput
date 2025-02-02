@@ -4,8 +4,8 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 from pyrogram.errors import FloodWait
 
-from YTMUSIC import app
-from YTMUSIC.utils.database import get_served_users, delete_served_user
+from SACHIN_MUSIC import app
+from SACHIN_MUSIC.utils.database import get_served_users, delete_served_user
 
 
 from config import OWNER_ID
