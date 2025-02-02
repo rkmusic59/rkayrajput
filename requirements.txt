@@ -57,3 +57,4 @@ pycryptodome
 opencv-python
 deep_translator
 bing_image_downloader
+delete_served_user
