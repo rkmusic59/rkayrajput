@@ -5,7 +5,7 @@ from pyrogram.enums import ChatMembersFilter
 from pyrogram.errors import FloodWait
 
 from SACHIN_MUSIC import app
-from SACHIN_MUSIC.misc import SUDOERS
+from config import OWNER_ID
 from SACHIN_MUSIC.utils.database import (
     get_active_chats,
     get_authuser_names,
@@ -20,9 +20,13 @@ from config import adminlist
 IS_BROADCASTING = False
 
 
-@app.on_message(filters.command("broadcast") & SUDOERS)
+@app.on_message(filters.command("broadcast"))
 @language
 async def braodcast_message(client, message, _):
+    if message.from_user.id != OWNER_ID:
+        return await message.reply_text(
+            "» ** • ᴏɴʟʏ [ꪜ 𝛊 ɭ ɭ ᧘ 𝛊 𝛈](https://t.me/iamakki001) ᴄᴀɴ ʙʀᴏᴀᴅᴄᴀsᴛ •**\n❍ ᴊᴏɪɴ [˹ᴠɪʟʟᴀɪɴ ꭙ ꜱᴜᴘᴘᴏʀᴛ˼](https://t.me/iamvillain77) ғᴏʀ ᴘʀᴏᴍᴏ •"
+        )
     global IS_BROADCASTING
     if message.reply_to_message:
         x = message.reply_to_message.id
@@ -117,7 +121,7 @@ async def braodcast_message(client, message, _):
     if "-assistant" in message.text:
         aw = await message.reply_text(_["broad_5"])
         text = _["broad_6"]
-        from PURVIMUSIC.core.userbot import assistants
+        from YTMUSIC.core.userbot import assistants
 
         for num in assistants:
             sent = 0
