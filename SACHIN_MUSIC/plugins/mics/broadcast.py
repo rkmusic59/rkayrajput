@@ -5,7 +5,7 @@ from pyrogram.enums import ChatMembersFilter
 from pyrogram.errors import FloodWait
 
 from SACHIN_MUSIC import app
-from config import OWNER_ID
+from SACHIN_MUSIC.misc import SUDOERS
 from SACHIN_MUSIC.utils.database import (
     get_active_chats,
     get_authuser_names,
@@ -20,13 +20,9 @@ from config import adminlist
 IS_BROADCASTING = False
 
 
-@app.on_message(filters.command("broadcast"))
+@app.on_message(filters.command(["broadcast", "gcast"]) & SUDOERS)
 @language
 async def braodcast_message(client, message, _):
-    if message.from_user.id != OWNER_ID:
-        return await message.reply_text(
-            "» ** • ᴏɴʟʏ [ꪜ 𝛊 ɭ ɭ ᧘ 𝛊 𝛈](https://t.me/iamakki001) ᴄᴀɴ ʙʀᴏᴀᴅᴄᴀsᴛ •**\n❍ ᴊᴏɪɴ [˹ᴠɪʟʟᴀɪɴ ꭙ ꜱᴜᴘᴘᴏʀᴛ˼](https://t.me/iamvillain77) ғᴏʀ ᴘʀᴏᴍᴏ •"
-        )
     global IS_BROADCASTING
     if message.reply_to_message:
         x = message.reply_to_message.id
@@ -121,17 +117,17 @@ async def braodcast_message(client, message, _):
     if "-assistant" in message.text:
         aw = await message.reply_text(_["broad_5"])
         text = _["broad_6"]
-        from YTMUSIC.core.userbot import assistants
+        from SONALI.core.userbot import assistants
 
         for num in assistants:
             sent = 0
             client = await get_client(num)
             async for dialog in client.get_dialogs():
                 try:
-                    await client.forward_messages(
-                        dialog.chat.id, y, x
-                    ) if message.reply_to_message else await client.send_message(
-                        dialog.chat.id, text=query
+                    (
+                        await client.forward_messages(dialog.chat.id, y, x)
+                        if message.reply_to_message
+                        else await client.send_message(dialog.chat.id, text=query)
                     )
                     sent += 1
                     await asyncio.sleep(3)
