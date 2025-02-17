@@ -1,61 +1,32 @@
 import re
 from os import getenv
-
 from dotenv import load_dotenv
 from pyrogram import filters
 
 load_dotenv()
 
-# Get this value from my.telegram.org/apps
 API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
 
-# Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
-# -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","iamakki001")
-# --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","odsmusicbot")
-# --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME")
-# ---------------------------------------------------------
-
-
-# Get your mongo url from cloud.mongodb.com
+BOT_USERNAME = getenv("BOT_USERNAME" , "radha_music_bot")
+BOT_NAME = getenv("BOT_NAME" , "RADHA MUSIC")
+ASSUSERNAME = getenv("ASSUSERNAME" , "")
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
-
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
-
-# Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", -1002311769574))
-
-# Get this value from @PURVI_HELP_BOT on Telegram by /id
+LOGGER_ID = int(getenv("LOGGER_ID", -1002348470544))
 OWNER_ID = int(getenv("OWNER_ID", 5909658683))
-
-
-# make your bots privacy from telegra.ph and put your url here 
-PRIVACY_LINK = getenv("PRIVACY_LINK", "https://graph.org/PRIVACY-FOR-TEAM-PURVI-BOTS-09-18")
-
-## Fill these variables if you're deploying on heroku.
-# Your heroku app name
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
-# Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-
-UPSTREAM_REPO = getenv(
-    "UPSTREAM_REPO",
-    "https://github.com/rkmusic59/rkayrajput",
-)
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
-GIT_TOKEN = getenv(
-    "GIT_TOKEN", None
-)  # Fill this variable if your upstream repository is private
-
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/iamrkay786/rkayrajput",)
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
+GIT_TOKEN = getenv("GIT_TOKEN", None)
+PRIVACY_LINK = getenv("PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-YukkiMusic-08-30")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/iamvillain77")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/oldskoolgc")
-
-# Set this to True if you want the assistant to automatically leave chats after an interval
-AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", "true"))
+AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "true")
+AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "9000"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION", "9999999"))
 SONG_DOWNLOAD_DURATION_LIMIT = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "9999999"))
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "1c21247d714244ddbb09925dac565aed")
