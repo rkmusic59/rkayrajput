@@ -12,9 +12,40 @@ from config import OWNER_ID
 
 MESSAGES = f"""๏ ᴛʜɪs ɪs {app.mention}!
  
- ➻ ᴀ ғᴀsᴛ & ᴘᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ғᴇᴀᴛᴜʀᴇs.
- 
- Sᴜᴘᴘᴏʀᴛᴇᴅ Pʟᴀᴛғᴏʀᴍs : ʏᴏᴜᴛᴜʙᴇ, sᴘᴏᴛɪғʏ, ʀᴇssᴏ, ᴀᴘᴘʟᴇ ᴍᴜsɪᴄ ᴀɴᴅ sᴏᴜɴᴅᴄʟᴏᴜᴅ."""
+ 𝗔𝗧𝗧𝗘𝗡𝗧𝗜𝗢𝗡,
+
+Iғ Yᴏᴜ Fᴀᴄɪɴɢ Issᴜᴇs Wɪᴛʜ Oᴛʜᴇʀ Mᴜsɪᴄ Bᴏᴛs, I Hᴀᴠᴇ Aʟᴛᴇʀɴᴀᴛɪᴠᴇ Fᴏʀ Yᴏᴜ Aʟʟ. 
+
+ Iɴᴛʀᴏᴅᴜᴄɪɴɢ Bᴏᴛs .
+
+Nᴏ Pʀᴏᴍᴏᴛɪᴏɴᴀʟ Aᴅs .
+Nᴏ Lᴀɢ Issᴜᴇs.
+
+Bᴀsᴇᴅ Oɴ Pʏʀᴏɢʀᴀᴍ 2.0 Wɪᴛʜ Oᴘᴛɪᴍɪsᴇᴅ Cᴏʀᴇ .
+
+Yᴏᴜ Cᴀɴ Aᴅᴅ Aɴʏ Oғ Tʜᴇᴍ Aɴᴅ Eɴᴊᴏʏ Bᴇᴛᴛᴇʀ Exᴘᴇʀɪᴇɴᴄᴇ .
+
+Oғғɪᴄɪᴀʟ  Bᴏᴛs.:-
+
+╭⎋@radha_music_bot
+╰⊚𝐀ʟɪᴠᴇ✅
+
+╭⎋@kukumusicrobot
+╰⊚𝐀ʟɪᴠᴇ✅
+
+╭⎋@odsmusic_bot
+╰⊚𝐀ʟɪᴠᴇ✅
+
+╭⎋@siya_music_robot
+╰⊚𝐀ʟɪᴠᴇ✅
+
+╭⎋@Spotify_Muxic_bot
+╰⊚𝐀ʟɪᴠᴇ✅
+
+
+Oғғɪᴄɪᴀʟ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ - @iamvillain77
+
+Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ:- @oldskoolgc."""
 
 BUTTONS = InlineKeyboardMarkup(
     [
