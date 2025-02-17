@@ -8,10 +8,11 @@ from SACHIN_MUSIC import app
 from SACHIN_MUSIC.core.call import SACHIN, autoend
 from SACHIN_MUSIC.utils.database import get_client, is_active_chat, is_autoend
 
+
 async def auto_leave():
     if config.AUTO_LEAVING_ASSISTANT:
         while not await asyncio.sleep(900):
-            from YTMUSIC.core.userbot import assistants
+            from SONALI.core.userbot import assistants
 
             for num in assistants:
                 client = await get_client(num)
