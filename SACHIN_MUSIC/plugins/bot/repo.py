@@ -40,7 +40,7 @@ async def start(_, msg):
 ],
 [
               InlineKeyboardButton("˹ʀᴧᴅʜᴧ ꭙ ᴍᴜꜱɪᴄ˼ ♪", url=f"https://t.me/radha_music_bot"),
-              InlineKeyboardButton("︎˹ᴋᴜᴋᴜ ꭙ ᴍᴜꜱɪᴄ˼ ♪", url=f"https://t.me/KukumusicRobot"),
+              InlineKeyboardButton("︎˹ᴋᴜᴋᴜ ꭙ ᴍᴜꜱɪᴄ˼ ♪", url=f"https://t.me/Kuku_music_bot"),
               ],
               [
               InlineKeyboardButton("•sᴘᴏᴛɪғʏ ᴍᴜsɪᴄ•", url=f"https://t.me/Spotify_Muxic_bot"),
@@ -55,7 +55,7 @@ InlineKeyboardButton("Ҩ፝֟፝ɴ┋ꕶʜɪᴢ֟፝ᴜᴋᴀ ♡", url=f"https:
               InlineKeyboardButton("˹ᴠɪʟʟᴀɪɴ ꭙ ꜱᴜᴘᴘᴏʀᴛ˼", url=f"https://t.me/iamvillain77"),
               ],
               [
-              InlineKeyboardButton("ᴀʟʟ ʙᴏᴛ", url=f"https://t.me/iamvillain77/38"),
+              InlineKeyboardButton("ᴀʟʟ ʙᴏᴛ", url=f"https://t.me/iamvillain77/62"),
         ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
