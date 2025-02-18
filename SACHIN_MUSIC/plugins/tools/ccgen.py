@@ -5,7 +5,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 EVAA = [
     [
-        InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ", url=f"https://t.me/HIMANSHI_MUSIC_BOT?startgroup=true"),
+        InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ", url=f"https://t.me/radha_music_bot?startgroup=true"),
     ],
 ]
 
@@ -36,7 +36,7 @@ async def gen_cc(client, message):
 `{cards[6]}`\n`{cards[7]}`\n`{cards[8]}`
 `{cards[9]}`
 
-**❖ ᴄᴄ ɢᴇɴ ʙʏ ➠ ʜᷟ ɪᷣ ᴍᷤ ᴧ η ɪ ᥫ᭡፝֟፝֟**""" , reply_markup=InlineKeyboardMarkup(EVAA),
+**❖ ᴄᴄ ɢᴇɴ ʙʏ ➠ ꪜ 𝛊 ɭ ɭ ᧘ 𝛊 𝛈 **""" , reply_markup=InlineKeyboardMarkup(EVAA),
         )
     except Exception as e:
         return await aux.edit(f"❍ ᴇʀʀᴏʀ ➠ {e}")
