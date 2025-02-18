@@ -30,7 +30,7 @@ Oғғɪᴄɪᴀʟ  Bᴏᴛs.:-
 ╭⎋@radha_music_bot
 ╰⊚𝐀ʟɪᴠᴇ✅
 
-╭⎋@kukumusicrobot
+╭⎋@kuku_music_bot
 ╰⊚𝐀ʟɪᴠᴇ✅
 
 ╭⎋@odsmusic_bot
